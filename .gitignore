@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Local configuration files
+#  These files are used to store local configurations and should not be shared.
+outputs/
+urls.json
